@@ -2,7 +2,7 @@ import { Outlet } from 'react-router-dom';
 import { Header } from '../components/shared/Header';
 import { Footer } from '../components/shared/Footer';
 
-export const MainLayout = () => {
+const MainLayout = () => {
   return (
     <>
       <Header />
@@ -11,3 +11,5 @@ export const MainLayout = () => {
     </>
   );
 };
+
+export default MainLayout;
