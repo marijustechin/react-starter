@@ -12,15 +12,11 @@ Tuščias pradinis projektas su tam tikrais paketais ir priklausomybėmis
   <li>react-router-dom</li>
   <li>axios</li>
   <li>react-icons</li>
+  <li>json-server</li>
 </ul>
-
-# Failai
-
-src/components/shared Header
-src/components/shared Footer
-src/components/ Modal
 
 # Puslapiai
 
 Pradžia
 Kontaktai
+404
