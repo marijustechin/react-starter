@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { Modal } from '../components/Modal';
+import { BasicForm } from '../components/BasicForm';
 
 const HomePage = () => {
   const [open, setOpen] = useState(false);
@@ -29,6 +30,10 @@ const HomePage = () => {
         Raudoans
       </button>
       <button className="btn-green-disabled">Raudoans</button>
+
+      <div className="my-10 mx-auto">
+        <BasicForm />
+      </div>
 
       {/* show modal window */}
       {confirm ? (

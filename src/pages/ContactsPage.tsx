@@ -1,5 +1,5 @@
 const ContactsPage = () => {
-  return <main>Kontaktu puslapis</main>;
+  return <main className="ms-container">Kontaktu puslapis</main>;
 };
 
 export default ContactsPage;
