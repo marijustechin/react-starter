@@ -9,7 +9,7 @@ Tuščias pradinis projektas su tam tikrais paketais ir priklausomybėmis
 <ul>
   <li>tailwindcss</li>
   <li>react-hook-form</li>
-  <li>react-router-dom</li>
+  <li>react-router</li>
   <li>axios</li>
   <li>react-icons</li>
   <li>json-server</li>
